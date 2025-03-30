@@ -1,20 +1,20 @@
-# 👩🏻‍💻Thalita Mota
+# 👩🏻‍💻 Thalita Mota 
 
-*Analista de Dados*  
+**`Analista de Dados`**  
 
 ## 💡 Sobre mim  
-Sou *Thalita Mota, analista de dados especializado em **Power BI, SQL e ArcGIS*.  
-Minha missão é transformar *dados em insights valiosos* para impulsionar a *tomada de decisão* e o crescimento do seu negócio.  
+Sou **Thalita Mota**, analista de dados especializado em **Power BI,  SQL ,Qgis, ArcGIS e Excel**.  
+Minha missão é transformar **dados em insights valiosos** para impulsionar a **tomada de decisão** e o crescimento do seu negócio.  
 
-- 📊 Especialista em *Business Intelligence e análise geoespacial*  
-- 🔄 Experiência com *modelagem de dados, ETL e visualizações interativas*  
-- ⚡ Apaixonado por *dados, automação e otimização de processos*  
+- 📊 Especialista em **Business Intelligence e análise geoespacial**  
+- 🔄 Experiência com **modelagem de dados, ETL e visualizações interativas**  
+- ⚡ Apaixonado por **dados, automação e otimização de processos**  
 
 ---
 
-📫 *Contato:*
+📫 **Contato:**
 <p align="left">
-    <a href="https://www.linkedin.com/in/thalita-mota-737a21245/" target="_blank">
+    <a href="www.linkedin.com/in/thalita-mota-737a21245" target="_blank">
         <img 
             alt="LinkedIn followers" 
             title="Conecte-se comigo no LinkedIn" 
@@ -22,7 +22,7 @@ Minha missão é transformar *dados em insights valiosos* para impulsionar a *to
             style="padding-right: 10px;"
         />
     </a>
-    <a href="mailto:thalitamota21@gmail.com" target="_blank">
+    <a href="mailto: thalitamota21o@gmail.com" target="_blank">
         <img 
             alt="Email" 
             title="Envie um email" 
@@ -60,6 +60,15 @@ Minha missão é transformar *dados em insights valiosos* para impulsionar a *to
     height="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    height="40px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
