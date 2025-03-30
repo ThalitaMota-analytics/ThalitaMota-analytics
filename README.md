@@ -14,7 +14,7 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
 
 📫 **Contato:**
 <p align="left">
-    <a href="www.linkedin.com/in/thalita-mota-737a21245" target="_blank">
+    <a href="https://www.linkedin.com/in/thalita-mota-737a21245/" target="_blank">
         <img 
             alt="LinkedIn followers" 
             title="Conecte-se comigo no LinkedIn" 
@@ -22,7 +22,7 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
             style="padding-right: 10px;"
         />
     </a>
-    <a href="mailto: thalitamota21o@gmail.com" target="_blank">
+    <a href="mailto: thalitamota21@gmail.com" target="_blank">
         <img 
             alt="Email" 
             title="Envie um email" 
