@@ -63,15 +63,6 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    height="40px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Excel" 
     title="Excel" 
     width="40px" 
